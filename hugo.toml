@@ -1,0 +1,12 @@
+baseURL = 'https://lcoquus.github.io/'
+languageCode = 'en-us'
+title = 'Lachlan Cook'
+theme = 'PaperMod'
+
+[author]
+    name = 'Lachlan Cook'
+
+[params]
+    author = 'Lachlan Cook'
+    math = true
+
