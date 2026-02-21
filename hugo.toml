@@ -10,3 +10,22 @@ theme = 'PaperMod'
     author = 'Lachlan Cook'
     math = true
 
+[taxonomies]
+    category = 'categories'
+    tag = 'tags'
+
+[menu]
+  [[menu.main]]
+    name = "Physics"
+    url = "/categories/physics/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Mathematics"
+    url = "/categories/mathematics/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Programming"
+    url = "/categories/programming/"
+    weight = 3
